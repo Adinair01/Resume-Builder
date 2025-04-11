@@ -26,7 +26,7 @@ This web app allows users to build their resumes dynamically with live previews,
 
 ## 🛠️ Tech Stack
 
-| Frontend     | Styling        | PDF Generation |
-|--------------|------------------|----------------|----------------|
+| Frontend     | Styling| PDF Generation |
+|--------------|-=------|----------------|
 | HTML5, CSS3, JS / React | TailwindCSS / Styled-Components | jsPDF / html2canvas / react-pdf |
 
